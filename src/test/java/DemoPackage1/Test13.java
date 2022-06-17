@@ -1,6 +1,6 @@
 package DemoPackage1;
 
-public class Test12 {
+public class Test13 {
 	public static void main(String[] args) {
 		
 		String hungrey = "Yes";
@@ -11,7 +11,6 @@ public class Test12 {
 		{
 			System.out.println("Do some work");
 		}
-		System.out.println("Hello");
 		
 		
 		
